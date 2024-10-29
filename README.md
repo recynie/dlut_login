@@ -8,10 +8,8 @@
 5. 赋予`login.sh`运行权限：`sudo chmod +x login.sh`；
 6. 运行脚本登录校园网：`./login.sh`。
 
-`template.sh`是shell的模板文件。
+`template.sh`是shell的模板文件，来源已不可考。
 
 `login.sh`配合`crontab`命令可以实现物联网设备自动连接校园网。
-
-shell参考了某个大佬的代码，找不到原仓库了:(
 
 > 相关工具集：[DLUT-survival-tools](https://github.com/NAOSI-DLUT/dlut-survival-tools)
